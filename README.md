@@ -1,4 +1,4 @@
-# FileSystem-Alert
+# FileSystem Alert
 
 Simple perl script to monitor the desired filesystem and send email.
 
